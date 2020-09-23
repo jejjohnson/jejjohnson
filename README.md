@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [my gaussian process model zoo.](https://jejjohnson.github.io/gp_model_zoo/)
 
-- 👨‍💻 All of my projects are available at [github.com/jejjohnson.](https://github.com/jejjohnson.)
+- 👨‍💻 All of my projects are available at [github.com/jejjohnson.](https://github.com/jejjohnson).
 
 - 💬 Ask me about **Gaussian processes, machine learning, and uncertainty.**
 
