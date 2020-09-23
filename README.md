@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with [my gaussian process model zoo.](https://jejjohnson.github.io/gp_model_zoo/)
 
-- 📫 How to reach me **jemanjohnson34@gmail.com.**
-
 :notebook_with_decorative_cover: My Research
 
 * Applied Bayesian and Probabilistic Models
