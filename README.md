@@ -1,7 +1,6 @@
+## Hello, I'm J. Emmanuel Johnson 👋!
 
-<h1 align="center">Hello 👋!</h1>
-<h1 align="center">I'm J. Emmanuel Johnson</h1>
-<h3 align="center">A 4th year PhD Student in Machine learning at University of Valencia</h3>
+- 🎓 I'm a 4th year PhD Student in Machine learning at [University of Valencia](https://isp.uv.es/).
 
 - 🔭 I’m currently working on [my thesis.](https://jejjohnson.github.io/research_journal/thesis)
 
