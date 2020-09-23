@@ -3,13 +3,13 @@
 <h1 align="center">I'm J. Emmanuel Johnson</h1>
 <h3 align="center">A 4th year PhD Student in Machine learning at University of Valencia</h3>
 
-- 🔭 I’m currently working on [my thesis.](jejjohnson.github.io/research_journal/thesis)
+- 🔭 I’m currently working on [my thesis.](https://jejjohnson.github.io/research_journal/thesis)
 
 - 🌱 I’m currently learning **Julia and (ofc) always more Python.**
 
 - 🤝 I’m looking for help with [my gaussian process model zoo.](https://jejjohnson.github.io/gp_model_zoo/)
 
-- 👨‍💻 All of my projects are available at [github.com/jejjohnson.](github.com/jejjohnson.)
+- 👨‍💻 All of my projects are available at [github.com/jejjohnson.](https://github.com/jejjohnson.)
 
 - 💬 Ask me about **Gaussian processes, machine learning, and uncertainty.**
 
