@@ -2,7 +2,7 @@
 
 - 🎓 I'm a 4th year PhD Student in Machine learning at [University of Valencia](https://isp.uv.es/).
 
-- 🔭 I’m currently working on [my thesis.](https://jejjohnson.github.io/research_journal/thesis)
+- 🔭 I’m currently working on [my thesis.](jejjohnson.github.io/thesis)
 
 - 🌱 I’m currently learning **Julia and (ofc) always more Python.**
 
