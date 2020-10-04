@@ -8,11 +8,16 @@
 
 - 🤝 I’m looking for help with [my gaussian process model zoo.](https://jejjohnson.github.io/gp_model_zoo/)
 
-:notebook_with_decorative_cover: My Research
+:notebook_with_decorative_cover: My Active Research
 
 * Applied Bayesian and Probabilistic Models
 * Sensitivity Analysis
 * Applied Machine Learning (Climate, Earth science, Oceanography)
+
+:notebook_with_decorative_cover: My Current Interests
+
+* [Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows)
+* [Gaussian Processes](https://github.com/jejjohnson/gp_model_zoo)
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
