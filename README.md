@@ -1,6 +1,6 @@
 ## Hello, I'm J. Emmanuel Johnson 👋!
 
-- 🎓 I'm a 4th year PhD Student in Machine learning at [University of Valencia](https://isp.uv.es/).
+- 🎓 I'm a postdoctoral researcher in Machine learning applied to data assimilation at the [MEOM](https://meom-group.github.io) research group.
 
 - 🔭 I’m currently working on my [research notebook](https://jejjohnson.github.io/research_notebook/intro.html).
 
