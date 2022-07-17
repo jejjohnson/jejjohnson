@@ -10,8 +10,8 @@
 
 :notebook_with_decorative_cover: My Active Research
 
-* Applied Bayesian and Probabilistic Models
-* Generative Models
+* Implicit Neural Representations
+* Interpolation of EO Variables
 * Applied Machine Learning (Climate, Earth science, Oceanography)
 
 :notebook_with_decorative_cover: My Current Interests
