@@ -25,7 +25,7 @@
 **Note**: These links are great resources, not necessarilty my personal work.
 
 * [Neural Fields](https://github.com/jejjohnson/ml4ssh)
-* [Gaussian Processes]([https://github.com/thomaspinder/GPJax](https://github.com/JaxGaussianProcesses/GPJax))
+* [Gaussian Processes](https://github.com/JaxGaussianProcesses/GPJax)
 * Generative Models - [Flows](https://github.com/janosh/awesome-normalizing-flows) | [VAEs](https://github.com/clementchadebec/benchmark_VAE) | [Diffusion Models](https://github.com/acids-ircam/diffusion_models)
 * State Space Models - [Dynamax](https://github.com/probml/dynamax) | [Markovian GPs](https://github.com/AaltoML/BayesNewton)
 
