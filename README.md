@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on my:
     - [Personal Research Notebook](https://jejjohnson.github.io/research_notebook/intro.html).
+    - [OceanBench: Sea Surface Height Edition](https://jejjohnson.github.io/oceanbench)
     - [Simple Ocean Models with JAX](https://github.com/jejjohnson/jaxsw) (Quasi-Geostrophic, Shallow Water, Navier-Stokes)
     - [Neural Fields applied to Interpolation of Earth Observation Variables](https://github.com/jejjohnson/ml4ssh)
 
