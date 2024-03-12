@@ -1,11 +1,13 @@
 ## Hello, I'm J. Emmanuel Johnson 👋!
 
-- 🎓 I'm a postdoctoral researcher in Machine learning applied to data assimilation at the [MEOM](https://meom-group.github.io) research group.
+- 🎓 I'm a postdoctoral researcher in Machine learning applied to climate extremes using Bayesian modeling and sensitivity analysis at the  [CSIC-UCM-IGEO](https://igeo.ucm-csic.es) research group.
 
 - 🔭 I’m currently working on my:
     - [Personal Research Notebook](https://jejjohnson.github.io/research_notebook/intro.html).
     - [OceanBench: Sea Surface Height Edition](https://jejjohnson.github.io/oceanbench)
-    - [Simple Ocean Models with JAX](https://github.com/jejjohnson/somax) (Quasi-Geostrophic, Shallow Water, Navier-Stokes, etc)
+    - Simple Ocean Models with JAX - [somaX](https://github.com/jejjohnson/somax) (Quasi-Geostrophic, Shallow Water, Navier-Stokes, etc)
+    - Finite Volume methods with Jax - [FiniteVolX](https://github.com/jejjohnson/finitevolX)
+    - Spectral Differences with Jax - [spectraldiffX](https://github.com/jejjohnson/spectraldiffx)
     - [Neural Fields applied to Interpolation of Earth Observation Variables](https://github.com/jejjohnson/ml4ssh)
 
 - 🌱 I’m currently learning **JAX and (ofc) always more Python.**
@@ -18,7 +20,10 @@
 :notebook_with_decorative_cover: My Active Research
 
 * Interpolation of Earth Observation Variables
+* Uncertainty Quantification
+* Sensitivity Analysis
 * Machine Learning for Dynamical Systems
+* Data-Driven Pipelines for Remote Sensing Data
 * Applied Machine Learning (Climate, Earth science, Oceanography)
 
 :notebook_with_decorative_cover: My Current Interests
