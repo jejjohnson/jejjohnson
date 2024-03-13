@@ -3,12 +3,14 @@
 - 🎓 I'm a postdoctoral researcher in Machine learning applied to climate extremes using Bayesian modeling and sensitivity analysis at the  [CSIC-UCM-IGEO](https://igeo.ucm-csic.es) research group.
 
 - 🔭 I’m currently working on my:
-    - [Personal Research Notebook](https://jejjohnson.github.io/research_notebook/intro.html).
+    - [Personal Research Notebook](https://jejjohnson.github.io/research_journal_v2/)
+    - Bayesian Modeling for Extremes - [jbayesevt](https://github.com/jejjohnson/jbayesevt)
     - [OceanBench: Sea Surface Height Edition](https://jejjohnson.github.io/oceanbench)
     - Simple Ocean Models with JAX - [somaX](https://github.com/jejjohnson/somax) (Quasi-Geostrophic, Shallow Water, Navier-Stokes, etc)
     - Finite Volume methods with Jax - [FiniteVolX](https://github.com/jejjohnson/finitevolX)
     - Spectral Differences with Jax - [spectraldiffX](https://github.com/jejjohnson/spectraldiffx)
-    - [Neural Fields applied to Interpolation of Earth Observation Variables](https://github.com/jejjohnson/ml4ssh)
+    - Neural Fields applied to Interpolation of Earth Observation Variables - [knerf](https://github.com/jejjohnson/knerf) | [functa4eo](https://github.com/jejjohnson/functa4eo) | [ml4ssh](https://github.com/jejjohnson/ml4ssh)
+
 
 - 🌱 I’m currently learning **JAX and (ofc) always more Python.**
 
