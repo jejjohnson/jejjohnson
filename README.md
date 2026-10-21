@@ -108,4 +108,63 @@ Older work still worth a look: [rbig](https://github.com/jejjohnson/rbig) (Rotat
 
 **Interests:** atmospheric retrievals · data assimilation · Gaussian processes and uncertainty quantification · neural fields · extremes · ML for dynamical systems.
 
+## Built on
+
+GeoStack stands on the shoulders of these open-source projects, and the packages above are designed to compose with them rather than replace them.
+
+**JAX numerics** · [JAX](https://github.com/jax-ml/jax) ·
+[Equinox](https://github.com/patrick-kidger/equinox) ·
+[jaxtyping](https://github.com/patrick-kidger/jaxtyping) ·
+[lineax](https://github.com/patrick-kidger/lineax) ·
+[diffrax](https://github.com/patrick-kidger/diffrax) ·
+[optimistix](https://github.com/patrick-kidger/optimistix) ·
+[matfree](https://github.com/pnkraemer/matfree) ·
+[finitediffx](https://github.com/ASEM000/finitediffx) ·
+[interpax](https://github.com/f0uriest/interpax) ·
+[einx](https://github.com/fferflo/einx) ·
+[einops](https://github.com/arogozhnikov/einops)
+
+**Probabilistic ML and training** · [NumPyro](https://github.com/pyro-ppl/numpyro) ·
+[Optax](https://github.com/google-deepmind/optax) ·
+[FlowJAX](https://github.com/danielward27/flowjax) ·
+[BlackJAX](https://github.com/blackjax-devs/blackjax) ·
+[Grain](https://github.com/google/grain) ·
+[Orbax](https://github.com/google/orbax)
+
+**Geospatial data** · [xarray](https://github.com/pydata/xarray) ·
+[georeader](https://github.com/spaceml-org/georeader) (GeoTensor) ·
+[rasterio](https://github.com/rasterio/rasterio) ·
+[rioxarray](https://github.com/corteva/rioxarray) ·
+[GeoPandas](https://github.com/geopandas/geopandas) ·
+[Shapely](https://github.com/shapely/shapely) ·
+[pyproj](https://github.com/pyproj4/pyproj) ·
+[xvec](https://github.com/xarray-contrib/xvec) ·
+[regionmask](https://github.com/regionmask/regionmask) ·
+[xrft](https://github.com/xgcm/xrft)
+
+**Cloud-native storage and catalogs** · [obstore](https://github.com/developmentseed/obstore) ·
+[async-geotiff](https://github.com/developmentseed/async-geotiff) ·
+[Zarr](https://github.com/zarr-developers/zarr-python) ·
+[fsspec](https://github.com/fsspec/filesystem_spec) ·
+[Dask](https://github.com/dask/dask) ·
+[DuckDB](https://github.com/duckdb/duckdb) ·
+[PyArrow](https://github.com/apache/arrow) ·
+[pystac](https://github.com/stac-utils/pystac) ·
+[pystac-client](https://github.com/stac-utils/pystac-client)
+
+**Data access** · [earthaccess](https://github.com/nsidc/earthaccess) ·
+[Planetary Computer](https://github.com/microsoft/planetary-computer-sdk-for-python) ·
+[Earth Engine](https://github.com/google/earthengine-api) ·
+[Copernicus Marine](https://github.com/mercator-ocean/copernicus-marine-toolbox) ·
+[CDS API](https://github.com/ecmwf/cdsapi) ·
+[HITRAN](https://hitran.org/hapi/)
+
+**The scientific Python base** · [NumPy](https://github.com/numpy/numpy) ·
+[SciPy](https://github.com/scipy/scipy) ·
+[scikit-learn](https://github.com/scikit-learn/scikit-learn) ·
+[scikit-image](https://github.com/scikit-image/scikit-image) ·
+[pandas](https://github.com/pandas-dev/pandas)
+
+<sub>A special thanks to Patrick Kidger's JAX ecosystem: Equinox, lineax, diffrax, optimistix and jaxtyping are the backbone of nearly every package here.</sub>
+
 <p align="center"><sub>Figures generated with GeoStack's own figure code · Python · JAX · Equinox · NumPyro · xarray</sub></p>
